@@ -15,5 +15,5 @@ Create pull requests to add more resources because sharing is caring and the mos
   4. [Books](https://github.com/bregman-arie/computer-networking/tree/master/books/README.md)
   5. [Interview Questions](https://github.com/bregman-arie/computer-networking/tree/master/interview_questions/README.md)
   6. [Exercises](https://github.com/bregman-arie/computer-networking/tree/master/exercises/README.md)
-  7. [Cheat Sheets](https://github.com/bregman-arie/computer-networking/tree/cheatsheets/README.md)
+  7. [Cheat Sheets](https://github.com/bregman-arie/computer-networking/tree/master/cheatsheets/README.md)
   8. [Checklists](https://github.com/bregman-arie/computer-networking/tree/master/checklists/README.md)
